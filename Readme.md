@@ -1,7 +1,7 @@
 # Личный проект «YetiCave»
 
 * Студент: [Ekaterina Ryazanova](https://up.htmlacademy.ru/php/8/user/199186).
-* Наставник: `Неизвестно`.
+* Наставник: [Макс Деев] ((https://up.htmlacademy.ru/php/8/user/685777).
 
 ---
 
